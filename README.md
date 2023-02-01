@@ -1,5 +1,4 @@
-### 👋
-I don't even know why I have this account since all of my repos are on my personal/professional account<br>
+### 👋 I don't even know why I have this account since all of my repos are on my personal/professional account<br>
 When I'm not messing around with machine learning I might be messing around with modding or slacking off!
 
 <!--
