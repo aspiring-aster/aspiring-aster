@@ -1,5 +1,6 @@
 ### 👋
-I don't even know why I have this account since all of my repos are on my personal/professional account 
+I don't even know why I have this account since all of my repos are on my personal/professional account<br>
+When I'm not messing around with machine learning I might be messing around with modding or slacking off!
 
 <!--
 **funkey-126/funkey-126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
