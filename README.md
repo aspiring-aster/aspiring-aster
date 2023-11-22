@@ -1,11 +1,6 @@
 ### 👋 I don't even know why I have this account since all of my repos are on my personal/professional account<br>
 When I'm not messing around with machine learning I might be messing around with modding or slacking off!
 -----
-#### Some stats for fun
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiring-aster&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=midnight-purple)](https://github.com/aspiring-aster)&nbsp; &nbsp;
----
-#### Fun repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspiring-aster&repo=OMORI-Upscale-Bot&theme=midnight-purple)](https://github.com/aspiring-aster/OMORI-Upscale-Bot)
 
 <!--
 **angel-721/angel-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
