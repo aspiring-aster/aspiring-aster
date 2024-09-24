@@ -19,3 +19,4 @@ I have over a year of experience creating VR apps and I also have experience in 
 - Nim(The love of my life)
 - Zig(My love affair, don't tell Nim)
 - C/C++ when I feel insane
+- Rust(Currently learning)
