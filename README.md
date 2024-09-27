@@ -4,7 +4,6 @@
 
 ### Reaching out to me 📫:
 I'm always willing to talk about my work and maybe(If I have time) work on a project with someone if my skills apply
-- Discord: orangejoefan
 - Twitter("X"): account is linked
 
 ### My Experience 🤓:
