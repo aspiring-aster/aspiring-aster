@@ -11,10 +11,10 @@ I have over a year of experience creating VR apps and I also have experience in 
 
 ### Programming Languages and frameworks:
 - JavaScript(I hate it but I seem to work the most in it) for web development and RpgMaker MV
- - Svelte(The only good JS frontend framework)
- - Vue(Not bad)
- - React(trash)
- - Express for backend stuff
+  - Svelte(The only good JS frontend framework)
+  - Vue(Not bad)
+  - React(trash)
+  - Express for backend stuff
 - C#(Unity)
 - GdScript(Godot)
 - Python for machine learning and some backend stuff
