@@ -7,7 +7,9 @@ I'm always willing to talk about my work and maybe(If I have time) work on a pro
 - Twitter("X"): account is linked
 
 ### My Experience 🤓:
-I have over a year of experience creating VR apps and I also have experience in teaching people how to code! This means that I learned the hard way on how to work in a team and talk to people. This GitHub is pretty empty since my professional one has the cool stuff to help me get a job. This is just here for tomfoolery
+I have over a year of experience creating VR apps professionally and I also have experience in teaching people how to code! This means that I learned the hard way on how to work in a team and talk to people. This GitHub is pretty empty since my professional one has the cool stuff to help me get a job. This is just here for tomfoolery.
+
+I currently intern at a start up where I do machine learning stuff and react stuff since I do the jobs of two people while only getting a interns pay.
 
 ### Programming Languages and frameworks:
 - JavaScript(I hate it but I seem to work the most in it) for web development and RpgMaker MV
